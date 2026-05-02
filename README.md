@@ -1,1 +1,1 @@
-# local-retail-ecosystem-analysis
+# Local-Retail-Ecosystem-Analysis

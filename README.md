@@ -1,1 +1,1 @@
-# shop-analysis-project
+# local-retail-ecosystem-analysis
